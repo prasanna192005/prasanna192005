@@ -43,7 +43,7 @@
 
 **🎵 Now Playing on Spotify:**  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=sgbttfk0ee6dnrt9mzyrgusoe&cover_image=true&theme=default" />
 </p>
 
 ---
