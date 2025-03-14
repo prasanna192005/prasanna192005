@@ -1,65 +1,78 @@
-<h1 align="center">Hi there, I'm Prasanna 👋</h1>
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F77F00&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Lover+of+Cool+Tech+%F0%9F%9A%80;Coding+Fun+Stuff+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F77F00&center=true&vCenter=true&width=600&height=50&lines=Hey+there!+I'm+Prasanna+👋;Software+Developer+🚀;Tech+Enthusiast+💻;Always+Learning+New+Things+📚" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
 
-## 🚀 **About Me**  
-
-- 🔥 Passionate **Software Developer**  
-- 🎮 Love **building cool projects & games**  
-- 💡 Always learning new things  
-- 🤖 Into **AI, Web Dev, and Automation**  
+## 💡 **About Me**  
+🔹 Passionate **Software Engineer** with a love for **tech & automation**  
+🔹 Building cool **web apps, games, & AI projects**  
+🔹 **Exploring new technologies** every day 🚀  
+🔹 🎵 **Music Lover, Gamer, & Meme Addict** 🎮😆  
 
 ---
 
-## 🔧 **Tech Stack**  
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+## 🛠 **Tech Stack**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,docker" />
+</p>
 
 ---
 
 ## 📊 **GitHub Stats**  
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasanna192005&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanna192005&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prasanna192005show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=prasanna192005&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna192005&layout=compact&theme=radical&hide_border=true" width="49%" />
 </div>
 
 ---
 
-## 🎮 **Fun Stuff**  
+## 🎮 **Fun Zone**  
 
-**🐍 Watch my contribution graph eat itself:**  
+🔥 **My Contribution Snake:**  
 <p align="center">
-  <img src="https://github.com/your-username/your-username/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/prasanna192005/prasanna192005/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
-**🎵 Now Playing on Spotify:**  
+🎵 **Now Playing on Spotify:**  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=sgbttfk0ee6dnrt9mzyrgusoe&cover_image=true&theme=default" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default" />
+</p>
+
+🐱‍💻 **Random Dev Meme:**  
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/" width="400" />
 </p>
 
 ---
 
-## 🤝 **Let's Connect**  
-
-🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+## 🌎 **Let's Connect!**  
+<p align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF4081.svg?&style=for-the-badge&logo=web&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ **Fun Fact:**  
-> The first computer bug was an actual moth found in a Harvard Mark II computer in 1947! 🦋💻  
+## 🌟 **Fun Fact!**  
+> The first ever website is still online at [info.cern.ch](http://info.cern.ch)! 🌍💾  
 
 ---
 
-🔥 **If you like my work, consider giving a ⭐ to my repositories!** 😃🚀  
+**🔥 If you like my work, drop a ⭐ and let's connect! 🚀**  
