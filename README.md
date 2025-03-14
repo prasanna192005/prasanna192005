@@ -40,15 +40,19 @@
   <img src="https://github.com/prasanna192005/prasanna192005/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
-🎵 **Now Playing on Spotify:**  
+### 🎵 Now Playing on Spotify
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=sgbttfk0ee6dnrt9mzyrgusoe&cover_image=true&theme=default" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=sgbttfk0ee6dnrt9mzyrgusoe&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=sgbttfk0ee6dnrt9mzyrgusoe&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
+  </a>
 </p>
 
-🐱‍💻 **Random Dev Meme:**  
+
+### 🐱‍💻 Random Dev Meme
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400" />
+  <img src="https://meme-api.com/gimme/programmingmemes" width="400" />
 </p>
+
 
 ---
 
