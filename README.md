@@ -26,7 +26,7 @@
 
 ## 📊 **GitHub Stats**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasanna192005show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prasanna192005&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
   <img src="https://streak-stats.demolab.com?user=prasanna192005&theme=radical&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna192005&layout=compact&theme=radical&hide_border=true" width="49%" />
 </div>
@@ -42,7 +42,7 @@
 
 🎵 **Now Playing on Spotify:**  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=sgbttfk0ee6dnrt9mzyrgusoe&cover_image=true&theme=default" />
 </p>
 
 🐱‍💻 **Random Dev Meme:**  
