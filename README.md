@@ -117,8 +117,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prasanna192005/prasanna192005/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=sgbttfk0ee6dnrt9mzyrgusoe&count=5)
 
-<p align="left">Hello World!!</p>
-
-###
