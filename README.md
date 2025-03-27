@@ -105,17 +105,13 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasanna192005/prasanna192005/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasanna192005/prasanna192005/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prasanna192005/prasanna192005/output/pacman-contribution-graph.svg">
-</picture>
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/prasanna192005/prasanna192005/output/pacman-contribution-graph.svg#gh-light-mode-only)
+![Pac-Man Contribution Graph Dark](https://raw.githubusercontent.com/prasanna192005/prasanna192005/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+
+
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=sgbttfk0ee6dnrt9mzyrgusoe&count=5)
 
