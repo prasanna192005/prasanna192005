@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/9ovo58"  />
+<img align="right" height="150" src="puneet.gif"  />
 
 ###
 
