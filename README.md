@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is Prasanna</h2>
+<h2 align="left">prasanna</h2>
 
-<img align="right" height="250" src="puneet.gif" />
+<img align="right" height="320" width="250" src="puneet.gif" />
 
 [![playakshar](https://img.shields.io/badge/🎮%20playakshar.xyz-111?style=flat-square)](https://playakshar.xyz)&nbsp;
 [![portfolio](https://img.shields.io/badge/🧑‍💻%20prasanna19.xyz-6E40C9?style=flat-square)](https://prasanna19.xyz)&nbsp;
@@ -10,6 +10,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasannapandharikar19@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna-pandharikar/)
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=sgbttfk0ee6dnrt9mzyrgusoe&count=3" alt="Spotify Recently Played" />
 
 <br clear="right"/>
 
@@ -52,4 +54,3 @@
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/prasanna192005/prasanna192005/output/pacman-contribution-graph.svg">
 </picture>
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=sgbttfk0ee6dnrt9mzyrgusoe&count=5)
