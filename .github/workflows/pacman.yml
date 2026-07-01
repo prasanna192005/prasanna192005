@@ -13,7 +13,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -25,6 +25,10 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: "prasanna192005"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Verify dist folder was created
+        run: ls -la dist/ || echo "dist folder missing!"
 
       - name: Push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v5
